@@ -1,6 +1,6 @@
-var num1 =Math.floor(Math.random()*19+1);
-var num2=Math.floor(Math.random()*19+1);
-var num3=Math.floor(Math.random()*19+1);
+var num1 =Math.floor(Math.random()*19);
+var num2=Math.floor(Math.random()*19);
+var num3=Math.floor(Math.random()*19);
 
 console.log("///Lista de numeros///");
 console.log("Primer numero :"+num1);
